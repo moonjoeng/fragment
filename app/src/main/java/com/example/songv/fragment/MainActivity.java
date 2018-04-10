@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void selectFragment(View view){
-        Fragment fr = null;
+        Fragment fr = null; //hello!
 
         switch (view.getId()){
             case R.id.button1:
